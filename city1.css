@@ -1,0 +1,27 @@
+body{
+    background-image: url("city1bg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+#city11{
+    float: left;
+}
+
+#city12{
+    float: right;
+}
+
+#city13{
+    display: block;
+    margin: auto;
+}
